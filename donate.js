@@ -45,7 +45,7 @@
           "ইউপিআই তথ্য উপলব্ধ। এগোনোর আগে প্রাপকের নাম দেখুন।",
         )
       : say(
-          "Online donations are not open yet. To donate, kindly contact on the number 9382482377.",
+          "Online donations are not open yet. To donate, kindly contact on the number **********.",
           "অনলাইন অনুদান এখনও চালু হয়নি। দান করতে অনুগ্রহ করে ৯৩৮২৪৮২৩৭৭ নম্বরে যোগাযোগ করুন।।",
         );
     motion();
